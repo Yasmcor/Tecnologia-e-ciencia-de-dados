@@ -1,0 +1,24 @@
+#
+- MOD 1 - Modelagem de dados
+
+Principais tópicos abordados no material
+
+- Conceitos de modelagem preditiva e sua aplicação em Data Science.
+    - O que é modelagem preditiva?
+        
+        
+        > **Modelagem preditiva** é uma parte de um conjunto maior
+        de ferramentas que nos ajuda a responder diferentes tipos deperguntas, com o objetivo final de tomar decisões mais informadas sobre o futuro. -PUCRS
+        > 
+        
+        - **"Processo"** → mostra que é um conjunto de etapas.
+        - **"Métodos estatísticos ou de machine learning"** → especifica as ferramentas.
+        - **"Identificar padrões e relações"** → indica a base da previsão.
+        - **"Apoiar a tomada de decisão"** → reforça o propósito final.
+        
+        ![image.png](attachment:da94fed5-6cd7-4150-9a10-607a2955208d:image.png)
+        
+        > Modelagem preditiva é o processo de aplicar métodos estatísticos e/ou de aprendizado de máquina a dados históricos, com o objetivo de identificar padrões e relações que permitam prever eventos ou resultados futuros, apoiando a tomada de decisão. -JL WLY
+        > 
+        
+        ![image.png](attachment:c801b8a6-9280-4774-97a4-2b93c250752d:image.png)
