@@ -1,2 +1,2 @@
-# Conte-do-Tecnologia-e-Ci-ncia-de-dados
+# Técnologia e ciência de dados
 Esse repositório tem o objetivo de consolidar conhecimentos sobre  tecnologia e ciência de dados.
